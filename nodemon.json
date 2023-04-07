@@ -1,0 +1,6 @@
+{
+  "env": {
+    "database": "mongodb+srv://rafeeq:6yrwhOdl0MbyDbQh@cluster0.u8ldqsu.mongodb.net/ecommerce-dev?retryWrites=true&w=majority",
+    "url_prefix": "/api/v1"
+  }
+}
